@@ -5,3 +5,4 @@ elif a == 1000 :
     print("potato")
 else:
     print("у нас нет такого продуктa")
+    print("hello")
